@@ -1,0 +1,31 @@
+
+        header{
+            width: 100%;
+            height: 90px;
+            background-color: aqua;
+        }
+        aside{
+            float: left;
+            width:25% ;
+            height:550px ;
+            background-color:lightgray;
+        }
+        section{
+            width: 50%;
+            height: 550px;
+            float: left;
+            background-color: yellowgreen;
+        }
+        article
+          {
+            float: right;
+            width: 25%;
+            height: 550px;
+            background-color: lightgrey;
+        }
+        footer{
+            width: 100;
+            height: 90px;
+            background-color: rgb(196, 19, 48);
+            clear: both;
+         }
